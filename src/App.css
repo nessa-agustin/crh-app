@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.container{
+  text-align: center;
+  padding-top: 10%;
+}
+
+label{
+  display: block;
+  width: 100%;
+}
+
+label > input {
+  margin-left: 5px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
